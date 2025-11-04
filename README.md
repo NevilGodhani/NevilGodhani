@@ -39,6 +39,10 @@
 
 ---
 
+## 📚 Currently Learning
+Python • NumPy • pandas • Machine Learning Concepts
+
+---
+
 ## 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/nevilgodhani/) • [GitHub](https://github.com/NevilGodhani) • [Email](mailto:nevilgodhani09@gmail.com)
-
