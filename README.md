@@ -23,6 +23,14 @@
 
 ---
 
+## 🎓 Certifications
+- Advanced Artificial Intelligence (VNSGU – 2024)
+- Fundamentals of AI using Python (VNSGU – 2024)
+- Mastering CSS (VNSGU – 2023)
+- WordPress Level 1 (VNSGU – 2023)
+
+---
+
 ## 🧰 Tech Skills
 **Languages:** Python, Java, SQL  
 **Tools & Frameworks:** Android Studio, Firebase, TensorFlow, scikit-learn, pandas, NumPy  
