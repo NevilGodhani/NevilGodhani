@@ -17,7 +17,8 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [ParkEasy](https://github.com/NevilGodhani/ParkEasy) | Smart parking management app with real-time slots and payment | Java, Firebase, Google Maps |
-| [KUKU Pet Shop](https://github.com/NevilGodhani/KUKU-PetShop) | E-commerce Android app for pet products | Java, Firebase |
+| [KUKU Pet Shop](https://github.com/NevilGodhani/KUKU) | E-commerce Android app for pet products | Java, Firebase |
+| [KUKU Pet Shop](https://github.com/NevilGodhani/KUKUAdmin) | E-commerce Android app for pet products (Admin) | Java, Firebase |
 | [AI Projects](https://github.com/NevilGodhani/AI-Projects) | Python-based mini AI/ML experiments (recommendation, analysis) | Python, pandas, sklearn |
 
 ---
